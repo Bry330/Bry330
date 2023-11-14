@@ -1,6 +1,6 @@
 - 👋 Hi, I’m "Bryan"
 - 👀 I’m interested in "Games and web development"
-- 🌱 I’m currently learning "Reforcing js and React"
+- 🌱 I’am currently learning "JS and React, I'm also looking forward to learn C# or C++ soon"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "bryansd2013@gmail.com"
 - 🇩🇴 | 🇺🇸 What languages i speak "For now i only speak spanish and english"
